@@ -21,6 +21,9 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "extra": {
+      "API_URL": "http://192.168.0.8:8080"
+    },
     "ios": {
       "supportsTablet": true
     }
